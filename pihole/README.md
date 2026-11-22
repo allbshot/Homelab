@@ -247,7 +247,10 @@ Known risks: Pi-hole is a single point of failure for DNS, and Google Wifi may f
 
 <img width="512" alt="Screenshot 2026-11-22 002747" src="https://github.com/user-attachments/assets/3ae88190-690b-4100-b1de-1244a3229c0b" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/68d5954f-c95d-465f-8d9b-6137d837e388" />
+<img width="1251" height="1031" alt="image" src="https://github.com/user-attachments/assets/0bbcf567-c68b-4779-87ac-a815637ce3f8" />
+
+
+
 
 
       
