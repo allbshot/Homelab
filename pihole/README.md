@@ -237,17 +237,17 @@ Known risks: Pi-hole is a single point of failure for DNS, and Google Wifi may f
 - [ ] Manual DNS on phone and TV for per-device stats
 
 
-      <img width="1106" height="608" alt="Screenshot 2026-11-21 234321" src="https://github.com/user-attachments/assets/7e2be887-bc1b-4aad-ac66-5983da486109" />
+<img width="1106" alt="Screenshot 2026-11-21 234321" src="https://github.com/user-attachments/assets/7e2be887-bc1b-4aad-ac66-5983da486109" />
 
-      <img width="1090" height="578" alt="Screenshot 2026-11-21 234917" src="https://github.com/user-attachments/assets/d1f47fc4-86fb-41fe-99d0-1953277cfd6d" />
+<img width="1090" alt="Screenshot 2026-11-21 234917" src="https://github.com/user-attachments/assets/d1f47fc4-86fb-41fe-99d0-1953277cfd6d" />
 
-      <img width="1107" height="616" alt="Screenshot 2026-11-21 235000" src="https://github.com/user-attachments/assets/72a276f8-fb18-46ef-adb2-1f5e25cf6156" />
+<img width="1107" alt="Screenshot 2026-11-21 235000" src="https://github.com/user-attachments/assets/72a276f8-fb18-46ef-adb2-1f5e25cf6156" />
 
-      <img width="974" height="597" alt="Screenshot 2026-11-22 000420" src="https://github.com/user-attachments/assets/a6c8a796-266e-4419-b374-f4e0de89c482" />
+<img width="974" alt="Screenshot 2026-11-22 000420" src="https://github.com/user-attachments/assets/a6c8a796-266e-4419-b374-f4e0de89c482" />
 
-      <img width="512" height="589" alt="Screenshot 2026-11-22 002747" src="https://github.com/user-attachments/assets/3ae88190-690b-4100-b1de-1244a3229c0b" />
+<img width="512" alt="Screenshot 2026-11-22 002747" src="https://github.com/user-attachments/assets/3ae88190-690b-4100-b1de-1244a3229c0b" />
 
-      <img width="1253" height="1307" alt="image" src="https://github.com/user-attachments/assets/68d5954f-c95d-465f-8d9b-6137d837e388" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/68d5954f-c95d-465f-8d9b-6137d837e388" />
 
 
       
